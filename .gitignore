@@ -1,0 +1,7 @@
+downloads/
+.venv/
+.env*
+chromedriver.exe
+*.pdf
+*.csv
+__pycache__/
